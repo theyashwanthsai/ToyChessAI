@@ -1,5 +1,6 @@
 # ToyChessEngine
 Creating my own tiny toy chess engine for fun... and to learn more about chess programming :)
+
 Using the dataset from Global Hack Week: Games to teach an AI to play chess!
 
 
